@@ -23,6 +23,7 @@ The aim is to provide a simple and functional implementation of the Hangman game
 - Handling user input and implementing input validation
 - Writing basic conditional statements
 
+
 ## 2. Installation Instructions
 To run the Hangman game on your local machine, follow these detailed installation instructions:
 
